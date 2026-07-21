@@ -13,7 +13,11 @@ Google Calendar 영역은 검토용 인터랙티브 목업이며, 실제 예약 
 
 ## 공유 링크
 
-https://hongppo.github.io/homepagekorea/
+https://hongppo.github.io/homepagekorea/contact-complete/high/
+
+공유용 목업은 `프로젝트/등급` 구조로 분류합니다.
+
+- 문의 완료 페이지 High: `/contact-complete/high/`
 
 ## 실행 방법
 
