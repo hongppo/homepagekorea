@@ -151,14 +151,8 @@ export default function Home() {
         </div>
       </section>
 
-      <footer>
-        <div className="footer-inner">
-          <div>
-            <span className="footer-brand">로고 영역</span>
-            <p>대한민국 기업 성장을 함께한 27년 경력 웹 에이전시</p>
-          </div>
-          <a href="#top">홈페이지로 돌아가기 <span aria-hidden="true">→</span></a>
-        </div>
+      <footer className="empty-footer" aria-label="푸터 영역">
+        <span className="footer-placeholder">푸터 영역</span>
       </footer>
     </main>
   );
