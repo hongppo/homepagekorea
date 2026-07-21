@@ -11,6 +11,10 @@
 
 Google Calendar 영역은 검토용 인터랙티브 목업이며, 실제 예약 서비스와 전환 스크립트는 연결되어 있지 않습니다.
 
+## 공유 링크
+
+https://hongppo.github.io/homepagekorea/
+
 ## 실행 방법
 
 Node.js 22.13 이상이 필요합니다.

@@ -18,7 +18,7 @@ body {
   margin: 0;
   background: var(--white);
   color: var(--ink);
-  font-family: var(--font-sans), "Pretendard", "Noto Sans KR", Arial, sans-serif;
+  font-family: "Pretendard", "Noto Sans KR", Arial, sans-serif;
   word-break: keep-all;
 }
 
