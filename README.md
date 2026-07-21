@@ -6,6 +6,7 @@
 
 - AI 리드 분기 기반 문의 완료 페이지
 - High 리드 상담 일정 선택 화면
+- Medium·Low 공통 포트폴리오 및 수행 방식 안내 화면
 - 관련 포트폴리오 노출
 - PC·모바일 반응형 레이아웃
 
@@ -13,11 +14,13 @@ Google Calendar 영역은 검토용 인터랙티브 목업이며, 실제 예약 
 
 ## 공유 링크
 
-https://hongppo.github.io/homepagekorea/contact-complete/high/
+- High: https://hongppo.github.io/homepagekorea/contact-complete/high/
+- Medium·Low: https://hongppo.github.io/homepagekorea/contact-complete/medium-low/
 
 공유용 목업은 `프로젝트/등급` 구조로 분류합니다.
 
 - 문의 완료 페이지 High: `/contact-complete/high/`
+- 문의 완료 페이지 Medium·Low: `/contact-complete/medium-low/`
 
 ## 실행 방법
 
